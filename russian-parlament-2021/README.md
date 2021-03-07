@@ -1,6 +1,6 @@
 # Онлайн мастер-класс «О чем говорят депутаты Госдумы? Анализ текстовых данных на Python», в рамках [Дня открытых данных](https://opendataday.ru/msk).
 
-![](https://github.com/DmitrySerg/open-data/blob/master/russian-parlament-2021/src/pictures/pic-1.png)
+<img src=https://github.com/DmitrySerg/open-data/blob/master/russian-parlament-2021/src/pictures/pic-1.png width=500>
 
 ![](https://github.com/DmitrySerg/open-data/blob/master/russian-parlament-2021/src/pictures/pic-2.png)
 
